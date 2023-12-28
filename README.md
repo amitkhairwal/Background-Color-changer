@@ -2,7 +2,7 @@
 Welcome to the Background Color Changing Project! This simple web application allows users to dynamically change the background color by clicking a button. It's a fun and interactive way to explore basic web development concepts using HTML, CSS, and JavaScript.
 
 
-![Background Color Changing Project](https://amitkhairwal.github.io/Background-Color-changer/ "Project Link")
+[Background Color Changing Project](https://amitkhairwal.github.io/Background-Color-changer/ "Project Link")
 
 ## Technologies Used
 
